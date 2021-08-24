@@ -17,7 +17,7 @@ public class ThirdPersonMovementScript : MonoBehaviour
         speed = 20f;
     }
 
-    // Update is called once per frame
+    // Update is called once per frame ++++
     void Update()
     {
         float horizontal = Input.GetAxisRaw("Horizontal");
