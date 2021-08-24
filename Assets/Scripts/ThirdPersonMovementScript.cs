@@ -11,7 +11,7 @@ public class ThirdPersonMovementScript : MonoBehaviour
 
     public float turnSmoothTime = 0.1f;
     float turnSmoothVelocity;
-    // Start is called before the first frame update;
+    // Start is calleeed before the first frame update;
     void Start()
     {
         speed = 20f;
